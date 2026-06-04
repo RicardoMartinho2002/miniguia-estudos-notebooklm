@@ -10,9 +10,7 @@ Vamos encontrar os pontos de divergência entre Einstein e a física quântica.
 
 # Fontes
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-## Create files and folders
+Na sequência as fontes utilizadas para criar o OnlineEinstein:
 
 1.  [O estilo científico de Einstein na exploração do domínio quântico - USP](https://revistas.usp.br/ss/article/view/11052)
 
